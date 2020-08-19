@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi I'm Stefan 👋
 
 📫 How to reach me: [stefankaraferovic@gmail.com](stefankaraferovic@gmail.com)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
 <!--
 **stefank-29/stefank-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
