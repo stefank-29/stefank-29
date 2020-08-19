@@ -5,6 +5,8 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefank-29&theme=tokyonight" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=stefank-29&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stefank-29&theme=tokyonight" />
+
 
 
 
