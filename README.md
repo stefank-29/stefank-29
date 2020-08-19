@@ -1,4 +1,4 @@
-[![Header]()
+<!--[![Header]()-->
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -26,7 +26,7 @@ My name is Stefan Karaferovic and I'm a FrontEnd developer. I'm from Serbia, liv
 
 
 
-
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
 <!--
 **stefank-29/stefank-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
