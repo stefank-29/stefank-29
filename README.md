@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Stefan Karaferovic and I'm a FrontEnd developer. I'm from Serbia, living in Belgrade and currently I'm Computer Science student. You can find me on[![LinkedIn][2.1]][2].
+My name is Stefan Karaferovic and I'm a FrontEnd developer. I'm from Serbia, living in Belgrade and currently I'm Computer Science student. You can find me on [![LinkedIn][2.1]][2].
 
 📫 How to reach me: [stefankaraferovic@gmail.com](stefankaraferovic@gmail.com)
 
