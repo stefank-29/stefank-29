@@ -24,12 +24,12 @@ My name is Stefan Karaferovic and I'm a FrontEnd developer. I'm from Serbia, liv
 ![](https://img.shields.io/badge/Linter-ESLint-informational?style=flat&logo=eslint&logoColor=white&color=2bbc8a),
 
 
-<--links for to accounts-->
+<!--links for to accounts-->
 [1]: https://github.com/stefank-29
 [2]: https://www.linkedin.com/in/?/
 
 
-<--icons for bio-->
+<!--icons for bio-->
 [3.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
 <!--
