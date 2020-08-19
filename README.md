@@ -4,7 +4,7 @@
 
 My name is Stefan Karaferovic and I'm a FrontEnd developer. I'm from Serbia, living in Belgrade and currently I'm Computer Science student. You can find me on [![LinkedIn][2.1]][2].
 
-📫 How to reach me: [stefankaraferovic@gmail.com](stefankaraferovic@gmail.com)
+📫 How to reach me: [stefankaraferovic@gmail.com](mailto:stefankaraferovic@gmail.com)
 
 <a href='https://github.com/stefank-29'>
 <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefank-29&hide=coffeescript&theme=algolia" />
