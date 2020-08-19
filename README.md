@@ -4,6 +4,8 @@
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefank-29&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=stefank-29&theme=tokyonight" />
+
 
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
