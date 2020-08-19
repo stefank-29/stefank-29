@@ -7,10 +7,12 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=stefank-29&theme=tokyonight" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stefank-29&theme=tokyonight" />
 
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
 
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
 
 <!--
 **stefank-29/stefank-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
