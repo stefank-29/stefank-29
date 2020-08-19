@@ -21,12 +21,16 @@ My name is Stefan Karaferovic and I'm a FrontEnd developer. I'm from Serbia, liv
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Linter-ESLint-informational?style=flat&logo=eslint&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Linter-ESLint-informational?style=flat&logo=eslint&logoColor=white&color=2bbc8a),
 
 
+<--links for to accounts-->
+[1]: https://github.com/stefank-29
+[2]: https://www.linkedin.com/in/?/
 
 
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+<--icons for bio-->
+[3.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
 <!--
 **stefank-29/stefank-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
