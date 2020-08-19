@@ -2,7 +2,7 @@
 
 📫 How to reach me: [stefankaraferovic@gmail.com](stefankaraferovic@gmail.com)
 
-![](https://image.flaticon.com/icons/svg/919/919828.svg<Code>-<JavaScript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
 
 <!--
 **stefank-29/stefank-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
