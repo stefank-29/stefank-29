@@ -7,7 +7,7 @@ My name is Stefan Karaferovic and I'm a FrontEnd developer. I'm from Serbia, liv
 📫 How to reach me: [stefankaraferovic@gmail.com](stefankaraferovic@gmail.com)
 
 <a href='https://github.com/stefank-29'>
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefank-29&hide=ruby&hide=coffescript&theme=algolia" />
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefank-29&hide=coffescript&theme=algolia" />
  </a>
 <a href='https://github.com/stefank-29'>
 <img align="top" src="https://github-readme-stats.vercel.app/api/?username=stefank-29&theme=algolia" />
