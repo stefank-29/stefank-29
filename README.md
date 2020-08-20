@@ -6,12 +6,7 @@ My name is Stefan Karaferovic and I'm a FrontEnd developer. I'm from Serbia, liv
 
 📫 How to reach me: [stefankaraferovic@gmail.com](mailto:stefankaraferovic@gmail.com)
 
-<a href='https://github.com/stefank-29'>
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefank-29&hide=coffeescript,ruby&theme=algolia" />
- </a>
-<a href='https://github.com/stefank-29'>
-<img align="top" src="https://github-readme-stats.vercel.app/api/?username=stefank-29&hide=issues,contribs&show_icons=true&theme=algolia" />
-  </a>
+
 
 
 ## 🔧 Technologies & Tools
@@ -23,6 +18,14 @@ My name is Stefan Karaferovic and I'm a FrontEnd developer. I'm from Serbia, liv
 ![](https://img.shields.io/badge/Code-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Linter-ESLint-informational?style=flat&logo=eslint&logoColor=white&color=2bbc8a),
 
+## &#x1f4c8; GitHub Stats
+
+<a href='https://github.com/stefank-29'>
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefank-29&hide=coffeescript,ruby&theme=algolia" />
+ </a>
+<a href='https://github.com/stefank-29'>
+<img align="top" src="https://github-readme-stats.vercel.app/api/?username=stefank-29&hide=issues,contribs&show_icons=true&theme=algolia" />
+  </a>
 
 <!--links for to accounts-->
 [1]: https://github.com/stefank-29
