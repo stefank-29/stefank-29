@@ -10,7 +10,7 @@ My name is Stefan Karaferovic and I'm a FrontEnd developer. I'm from Serbia, liv
 <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefank-29&hide=coffeescript,ruby&theme=algolia" />
  </a>
 <a href='https://github.com/stefank-29'>
-<img align="top" src="https://github-readme-stats.vercel.app/api/?username=stefank-29&theme=algolia" />
+<img align="top" src="https://github-readme-stats.vercel.app/api/?username=stefank-29&hide=issues,contribs&show_icons=true&theme=algolia" />
   </a>
 
 
