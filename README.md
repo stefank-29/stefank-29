@@ -28,7 +28,7 @@ My name is Stefan Karaferovic and I'm a FrontEnd developer. I'm from Serbia, liv
   </a>
   
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=To-Do-List)](https://github.com/stefank-29/To-Do-List)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stefank-29&repo=To-Do-List)](https://github.com/stefank-29/To-Do-List)
   
   
 
