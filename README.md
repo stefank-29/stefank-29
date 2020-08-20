@@ -16,7 +16,7 @@ My name is Stefan Karaferovic and I'm a FrontEnd developer. I'm from Serbia, liv
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Linter-ESLint-informational?style=flat&logo=eslint&logoColor=white&color=2bbc8a),
+![](https://img.shields.io/badge/Linter-ESLint-informational?style=flat&logo=eslint&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -26,6 +26,11 @@ My name is Stefan Karaferovic and I'm a FrontEnd developer. I'm from Serbia, liv
 <a href='https://github.com/stefank-29'>
 <img align="top" src="https://github-readme-stats.vercel.app/api/?username=stefank-29&hide=issues,contribs&show_icons=true&theme=algolia" />
   </a>
+  
+  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=To-Do-List)](https://github.com/stefank-29/To-Do-List)
+  
+  
 
 <!--links for to accounts-->
 [1]: https://github.com/stefank-29
