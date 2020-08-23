@@ -30,8 +30,14 @@ My name is Stefan Karaferovic and I'm a FrontEnd developer. I'm from Serbia, liv
   <a href="https://github.com/stefank-29/To-Do-List">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stefank-29&repo=To-Do-List&theme=algolia" />
 </a>
-<a href="https://github.com/stefank-29/To-Do-List">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stefank-29&repo=To-Do-List&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/stefank-29/Restaurant-Site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stefank-29&repo=Restaurant-Site&theme=algolia" />
+</a>
+<a href="https://github.com/stefank-29/Tic-Tac-Toe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stefank-29&repo=Tic-Tac-Toe&theme=algolia" />
+</a>
+<a href="https://github.com/stefank-29/ETCH-A-SKETCH">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stefank-29&repo=ETCH-A-SKETCH&theme=algolia" />
 </a>
   
 
