@@ -45,7 +45,7 @@ My name is Stefan Karaferovic and I'm a FrontEnd developer. I'm from Serbia, liv
 <!--links for to accounts-->
 [1]: https://github.com/stefank-29
 [2]: https://www.linkedin.com/in/stefankaraferovic/
-
+[3]: https://www.facebook.com/stefan.karaferovic
 
 <!--icons for bio-->
 [2.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
