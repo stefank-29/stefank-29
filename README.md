@@ -48,8 +48,8 @@ My name is Stefan Karaferovic and I'm a FrontEnd developer. I'm from Serbia, liv
 [3]: https://www.facebook.com/stefan.karaferovic
 
 <!--icons for bio-->
-[2.1]: https://raw.githubusercontent.com/stefank-29/stefank-29/master/linkedin.svg
-[2.2]: https://raw.githubusercontent.com/stefank-29/stefank-29/master/facebook.svg
+[2.1]: https://raw.githubusercontent.com/stefank-29/stefank-29/master/linkedin-16x16.png
+[2.2]: https://raw.githubusercontent.com/stefank-29/stefank-29/master/facebook-16x16.png
 
 <!--
 **stefank-29/stefank-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
