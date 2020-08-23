@@ -21,10 +21,10 @@ My name is Stefan Karaferovic and I'm a FrontEnd developer. I'm from Serbia, liv
 ## &#x1f4c8; GitHub Stats
 
 <a href='https://github.com/stefank-29'>
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefank-29&hide=coffeescript,ruby&theme=algolia" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefank-29&hide=coffeescript,ruby&theme=algolia" />
  </a>
 <a href='https://github.com/stefank-29'>
-<img align="top" src="https://github-readme-stats.vercel.app/api/?username=stefank-29&show_icons=true&theme=algolia" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=stefank-29&show_icons=true&theme=algolia" />
   </a>
 <!--&hide=issues,contribs-->
   <a href="https://github.com/stefank-29/To-Do-List">
