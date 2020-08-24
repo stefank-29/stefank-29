@@ -28,7 +28,7 @@ My name is Stefan Karaferovic and I'm a FrontEnd developer. I'm from Serbia, liv
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=b03415)
 ![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=C%2B%2B&logoColor=white&color=5a1e9e)
 ![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&logoColor=white&color=09549e)
-![](https://img.shields.io/badge/Database-MS SQL-informational?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=CC2927)
+![](https://img.shields.io/badge/Database-MSSQL-informational?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=CC2927)
 
 
 ## &#x1f4c8; GitHub Stats
