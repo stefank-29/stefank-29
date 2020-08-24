@@ -7,8 +7,9 @@ My name is Stefan Karaferovic and I'm a FrontEnd developer. I'm from Serbia, liv
 
 ## 📫 How to reach me?
 [stefankaraferovic@gmail.com](mailto:stefankaraferovic@gmail.com)
+<p>
 <a target="_blank"href="https://www.linkedin.com/in/stefankaraferovic/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+</p>
 
 
 ## 🔧 Technologies & Tools
