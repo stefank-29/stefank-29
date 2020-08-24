@@ -14,13 +14,13 @@ My name is Stefan Karaferovic and I'm a FrontEnd developer. I'm from Serbia, liv
 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=d97d27)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=1792ee)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=html5&logoColor=white&color=red)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=ebd407)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=187ad6)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=html5&logoColor=white&color=db4409)
 ![](https://img.shields.io/badge/Code-Webpack-informational?style=for-the-badge&logo=webpack&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Linter-ESLint-informational?style=for-the-badge&logo=eslint&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Linter-ESLint-informational?style=for-the-badge&logo=eslint&logoColor=white&color=4513c2)
 
 ## &#x1f4c8; GitHub Stats
 
