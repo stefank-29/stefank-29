@@ -6,10 +6,9 @@
 My name is Stefan Karaferovic and I'm a FrontEnd developer. I'm from Serbia, living in Belgrade and currently I'm Computer Science student. You can find me on [![LinkedIn][2.1]][2], or on [![Facebook][2.2]][3].
 
 ## 📫 How to reach me?
-[stefankaraferovic@gmail.com](mailto:stefankaraferovic@gmail.com)
 <p>
   <a href="mailto:stefankaraferovic@gmail.com?subject=Hello%20Stefan,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a target="_blank"href="https://www.linkedin.com/in/stefankaraferovic/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a target="_blank"href="https://www.linkedin.com/in/stefankaraferovic/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
