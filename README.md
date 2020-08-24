@@ -5,7 +5,8 @@
 
 My name is Stefan Karaferovic and I'm a FrontEnd developer. I'm from Serbia, living in Belgrade and currently I'm Computer Science student. You can find me on [![LinkedIn][2.1]][2], or on [![Facebook][2.2]][3].
 
-📫 How to reach me: [stefankaraferovic@gmail.com](mailto:stefankaraferovic@gmail.com)
+## 📫 How to reach me?
+[stefankaraferovic@gmail.com](mailto:stefankaraferovic@gmail.com)
 
 
 
