@@ -55,8 +55,14 @@ My name is Stefan Karaferovic and I'm a FrontEnd developer. I'm from Serbia, liv
 <a href="https://github.com/stefank-29/Calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stefank-29&repo=Calculator&theme=algolia" />
 </a>
+<a href="https://github.com/stefank-29/Pomodoro-Timer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stefank-29&repo=Pomodoro-Timer&theme=algolia" />
+</a>
 <a href="https://github.com/stefank-29/Library">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stefank-29&repo=Library&theme=algolia" />
+</a>
+<a href="https://github.com/stefank-29/RockPaperScissors">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stefank-29&repo=RockPaperScissors&theme=algolia" />
 </a>
   
 
