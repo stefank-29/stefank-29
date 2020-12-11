@@ -18,18 +18,16 @@ My name is Stefan Karaferovic and I'm a Full stack web developer. I'm from Serbi
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=1792ee)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=ebd407)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=db4409)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=db4409)
 
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=db4409)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=187ad6)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=html5&logoColor=white&color=db4409)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=db4409)
-
-
 ![](https://img.shields.io/badge/Tool-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=ba1d18)
 ![](https://img.shields.io/badge/Code-Webpack-informational?style=for-the-badge&logo=webpack&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Linter-ESLint-informational?style=for-the-badge&logo=eslint&logoColor=white&color=4513c2)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=2e4536)
-
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=b03415)
 ![](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=C%2B%2B&logoColor=white&color=5a1e9e)
 ![](https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&logoColor=white&color=09549e)
