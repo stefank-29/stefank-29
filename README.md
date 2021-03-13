@@ -1,5 +1,5 @@
 <!--[![Header]()-- ubaciti link ka sajtu kad ga napravim-->
-[![Header](https://raw.githubusercontent.com/stefank-29/stefank-29/master/readme_header.jpg "Header")](https://github.com/stefank-29)
+[![Header](https://raw.githubusercontent.com/stefank-29/stefank-29/master/github-banner.jpg "Header")](https://github.com/stefank-29)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/stefank-29/stefank-29/master/wave.gif" width="30px">
 
