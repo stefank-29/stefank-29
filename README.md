@@ -43,11 +43,17 @@ My name is Stefan Karaferovic and I'm a Full stack web developer. I'm from Serbi
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=stefank-29&show_icons=true&theme=algolia" />
   </a>
 <!--&hide=issues,contribs-->
-<a href="https://github.com/stefank-29/SneakersShop">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stefank-29&repo=SneakersShop&theme=algolia" />
+<a href="https://github.com/stefank-29/AirTicketsApp">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stefank-29&repo=AirTicketsApp&theme=algolia" />
 </a>
-<a href="https://github.com/stefank-29/MovieReviews">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stefank-29&repo=MovieReviews&theme=algolia" />
+<a href="https://github.com/stefank-29/SneakersShop-Next.js">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stefank-29&repo=SneakersShop-Next.js&theme=algolia" />
+</a>
+<a href="https://github.com/stefank-29/BlogApp-Django">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stefank-29&repo=BlogApp-Django&theme=algolia" />
+</a>
+<a href="https://github.com/stefank-29/Movie-Reviews">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stefank-29&repo=Movie-Reviews&theme=algolia" />
 </a>
 <a href="https://github.com/stefank-29/To-Do-List">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stefank-29&repo=To-Do-List&theme=algolia" />
