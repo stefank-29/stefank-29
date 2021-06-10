@@ -38,7 +38,7 @@ My name is Stefan Karaferovic and I'm a Full stack web developer. I'm from Serbi
 ## &#x1f4c8; GitHub Stats
 
 <a href='https://github.com/stefank-29'>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefank-29&hide=coffeescript,ruby&theme=algolia" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefank-29&hide=coffeescript,ruby,c&theme=algolia" />
  </a>
 <a href='https://github.com/stefank-29'>
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=stefank-29&show_icons=true&theme=algolia" />
