@@ -16,6 +16,7 @@ My name is Stefan Karaferovic and I'm a Full stack web developer. I'm from Serbi
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=d97d27)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=1792ee)
+![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=1792ee)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=ebd407)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=db4409)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=db4409)
